@@ -5,6 +5,6 @@ Hey there! :wave:
 - Programming is an increasingly important part of research and I am trying to get more fluent beyond Stata, for example in R, Python, and Javascript.
 - I am also striving to make anything related to my research open access and reproducible (see, e.g., replication materials linked on my [homepage](https://hu-berlin.de/sprengholz)).
 
-maximilian.sprengholz@hu-berlin.de<br />
+maximilian.sprengholz@protonmail.com<br />
 https://maximilian-sprengholz.github.io/homepage/#/<br />
 https://orcid.org/0000-0003-3829-3665
