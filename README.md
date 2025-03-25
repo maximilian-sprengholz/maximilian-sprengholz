@@ -6,5 +6,5 @@ Hey there! :wave:
 - I am also striving to make anything related to my research open access and reproducible (see, e.g., replication materials linked on my [homepage](https://hu-berlin.de/sprengholz)).
 
 maximilian.sprengholz@hu-berlin.de<br />
-https://hu-berlin.de/sprengholz<br />
+https://maximilian-sprengholz.github.io/homepage/#/<br />
 https://orcid.org/0000-0003-3829-3665
