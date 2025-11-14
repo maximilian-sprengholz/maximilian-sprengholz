@@ -1,10 +1,7 @@
 Hey there! :wave:
 
-- I hold a PhD in social sciences from Humboldt-Universität zu Berlin and the Berlin Graduate School of Social Sciences (BGSS).
-- My current research interests include social and political inequalities at the intersections of gender, nativity, and class.
-- Programming is an increasingly important part of my research and I am becoming more fluent beyond Stata, for example in R, Python, and Javascript.
-- I am also striving to make anything related to my research open access and reproducible (see, e.g., replication materials linked on my homepage).
+I recently earned my PhD in Sociology from Humboldt-Universität zu Berlin, where I conducted quantitative research on labor market inequalities at the intersection of nativity and gender. I am currently seeking a position as a data analyst or in research infrastructure related to open science and open data. I previously worked as a graphic designer and would enjoy using those skills again.
 
 maximilian.sprengholz@protonmail.com<br />
-https://maximilian-sprengholz.github.io/homepage/#/<br />
+https://maximilian-sprengholz.github.io<br />
 https://orcid.org/0000-0003-3829-3665
